@@ -1,0 +1,55 @@
+ @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100&family=Great+Vibes&family=Montserrat:ital,wght@1,100&family=Passions+Conflict&family=Rubik&family=Rubik+Vinyl&display=swap');
+
+
+.time{
+    display: flex;
+    text-align: center;
+align-content: center;
+color: #ffeb66;
+font-family: 'Great Vibes', cursive;
+font-size: 70px;
+}
+.clock, .screen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.clock{
+    width: 25em;
+    height: 12em;
+    background: #0b0d0e;
+    border-radius: 20px;
+   
+}
+
+.screen{
+    width: 25em;
+    height: 11em;
+    border: 10px solid #f4f434;
+border-radius: 20px;
+ background: linear-gradient(
+    -24deg, #1f272b 0%,
+
+#34f49e 50%,
+#44f434 50%,
+#1b1f21 100%
+
+);
+
+
+}
+.screen:hover{
+    background: linear-gradient(
+    -90deg, #1f272b 0%,
+
+#44f434 50%,
+#34f49e 50%,
+#1b1f21 100%,
+
+
+);
+
+
+}

@@ -1,0 +1,31 @@
+body{
+  background-color: gray;
+  
+    margin: 0;
+    padding: 0;
+    background: #1a1a1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+
+}
+.digiclock{
+height: 400px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+
+    
+
+}
+.counter{
+  height: 400px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background-color: #FFFF66;
+    width: 204vh;
+}
