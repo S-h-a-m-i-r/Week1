@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+}
+h4 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+.toggle_button {
+  height: 100px;
+  width: 200px;
+  margin-top: 10%;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+  background-color: rgb(4, 85, 35);
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0, 35) 0px 5px 15px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
+.toggle-close {
+  background-color: rgb(210, 12, 12);
+}
+.txt {
+  height: 100px;
+  width: 200px;
+  margin-top: 10%;
+  border: none;
+  font-size: 50px;
+  margin-left: 50%;
+  margin-right: auto;
+  display: table;
+}
+.incnum {
+  height: 50px;
+  width: auto;
+  margin-top: 5%;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+  background-color: rgb(3, 159, 194);
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0, 35) 0px 5px 15px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+.dbincnum {
+  height: 50px;
+  width: auto;
+  margin-top: 1%;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+  background-color: rgb(107, 123, 248);
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0, 35) 0px 5px 15px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+.disc {
+  color: white;
+  text-align: center;
+}
