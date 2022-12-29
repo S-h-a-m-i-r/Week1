@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.form {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.form h1 {
+  color: #f1356d;
+  font-family: monospace;
+  font-size: 30px;
+}
+.form label {
+  text-align: left;
+  display: block;
+}
+.form input,
+.form textarea,
+.form select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid white;
+  box-sizing: border-box;
+  display: block;
+}
+.form button {
+  background-color: #f1356d;
+  color: white;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+}
